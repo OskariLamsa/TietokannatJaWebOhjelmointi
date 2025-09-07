@@ -1,14 +1,14 @@
 # Rytmipelin pisteiden kirjanpito
 
-##Sovelluksen toiminnot
-*Käyttäjä voi luoda tunnuksen ja kirjautumaan sisään sivustolle.
-*Käyttäjä voi etsiä biisin biisi-tietokannasta, lisätä omat pisteensä.
-*Käyttäjä voi asettaa pistetuloksen ohessa suoritukselle luokittelun, joka kertoo mitä asetusta he käyttivän suorituksen aikana
-*Käyttäjä voi päivittää oman pistetuloksensa jo suorittamissaan biiseissä.
-*Käyttäjä voi nähdä kaikkien pelaajien pistetulokset biisissä, ja voi järjestää ne suuremmasta pienempään, päinvastoin, tai filtteröidä asetuksen mukaan.
-*Käyttäjä voi nähdä kaikki omat pistetulokset profiilissaan.
+## Sovelluksen toiminnot
+* Käyttäjä voi luoda tunnuksen ja kirjautumaan sisään sivustolle.
+* Käyttäjä voi etsiä biisin biisi-tietokannasta, lisätä omat pisteensä.
+* Käyttäjä voi asettaa pistetuloksen ohessa suoritukselle luokittelun, joka kertoo mitä asetusta he käyttivän suorituksen aikana
+* Käyttäjä voi päivittää oman pistetuloksensa jo suorittamissaan biiseissä.
+* Käyttäjä voi nähdä kaikkien pelaajien pistetulokset biisissä, ja voi järjestää ne suuremmasta pienempään, päinvastoin, tai filtteröidä asetuksen mukaan.
+* Käyttäjä voi nähdä kaikki omat pistetulokset profiilissaan.
 
-##Sovelluksen Asennus
+## Sovelluksen Asennus
 Todo
 
 ** Pelin selitys, ja miten se liittyy sovellukseen.
