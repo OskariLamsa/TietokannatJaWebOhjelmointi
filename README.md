@@ -9,6 +9,8 @@
 * Käyttäjä voi nähdä kaikki pistetulokset pelaajann profiilissa.
 * Käyttäjä voi lisätä jokaiseen pistetulokseen (myös muiden käyttäjien) emoji-reaktion muutamasta vaihtoehdosta.
 
+Pelaaja voi tehdä suoritusmerkinnän vain biisille, joka on oikeasti olemassa. Suoritusmerkintä on pääasiallinen tietokohde, emoji-reaktiot ovat toissijainen tietokohde, ja itse biisi-database on käyttäjälle näkymätön ja staattinen.
+
 ## Sovelluksen Asennus
 Todo
 
